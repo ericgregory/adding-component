@@ -7,8 +7,6 @@ import (
 type AdderImpl struct {
 }
 
-// Implement the ExportsDocsAdder0_1_0_Add interface to ensure the component satisfies the
-// `adder` world
 func (i AdderImpl) Add(x, y uint32) uint32 {
 	return x + y
 }

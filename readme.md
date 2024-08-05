@@ -1,7 +1,3 @@
----
-title: "README"
----
-
 # Component example
 
 This example implements a [Go-based adding component example from the Component Model Book](https://component-model.bytecodealliance.org/language-support/go.html) with the **washCloud Shell (`wash`)** CLI. The repo includes:
@@ -40,4 +36,4 @@ world root {
 }
 ```
 
-We're exporting the add interface. 
+We're exporting the add function. 
